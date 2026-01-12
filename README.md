@@ -1,20 +1,26 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# The Manifesto of the Non-Zero Chance
 
-# Run and deploy your AI Studio app
+A philosophical website presenting a worldview centered on hope, agency, and the power of possibility. The core message: while statistics may show a 99% chance of failure, that remaining 1% represents an open door—and one chance is all you need.
 
-This contains everything you need to run your app locally.
+## Philosophy
 
-View your app in AI Studio: https://ai.studio/apps/drive/1SIFy8XYpXOKq8ya8arTi-slcoUUWnN27
+The manifesto argues that:
+
+- **0% is a wall, but 1% is a door** — As long as any chance exists, hope is not a delusion; it is a strategy
+- **One chance is sufficient** — We don't need the odds to be easy; we only need them to be possible
+- **Human agency changes the equation** — Statistics cannot calculate the human spirit's ability to change outcomes through will, faith, and effort
+
+The site includes historical examples (Admiral Yi Sun-sin, David and Goliath, Gideon) and practical scenarios applying this philosophy to real-life challenges like medical diagnoses, career setbacks, academic failure, and personal tragedy.
 
 ## Run Locally
 
-**Prerequisites:**  Node.js
-
+**Prerequisites:** Node.js
 
 1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+   ```
+   npm install
+   ```
+2. Run the app:
+   ```
+   npm run dev
+   ```
